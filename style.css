@@ -147,7 +147,7 @@ input{
 }
 
 .right-container{
-    background-color: green;
+   
     width: 100%;
 }
 
@@ -227,3 +227,29 @@ input{
     border-radius: 50px;
 }
 
+.side-contents{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.vido-content img{
+    border-radius: 10px;
+}
+
+.text-content .side-text1{
+    margin-top: 20px;
+    font-size: 15px;
+    font-weight: bold;
+}
+
+.text-content .side-text2{
+    font-size: 12px;
+    color: rgb(121, 115, 115);
+}
+
+.text-content .side-text3{
+    font-size: 12px;
+    color: rgb(121, 115, 115);
+    margin-bottom: 30px;
+}
