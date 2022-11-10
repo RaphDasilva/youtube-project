@@ -138,3 +138,92 @@ input{
     border-style: none;
     border-radius: 100px;
 }
+
+.discription{
+    background-color: #f1eeee;
+    padding: 10px;
+    margin-top: 10px;
+    border-radius: 20px;
+}
+
+.right-container{
+    background-color: green;
+    width: 100%;
+}
+
+.comment-sort{
+    display: flex;
+    justify-content: flex-start;
+    gap: 30px;
+    padding: 20px;
+}
+
+#comment-place{
+    width: 95%;
+    margin: 10px;
+    border-style: none none solid none;
+    border-radius: 0px;
+}
+
+.comment-icons{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-left: 30px;
+    margin-right: 20px;
+}
+
+.comment-functions{
+    display: flex;
+    gap: 20px;
+}
+
+.comment-functions button{
+    padding: 10px;
+    border-radius: 50px;
+    border-style: none;
+}
+
+.com #text1{
+    margin-left: 10px;
+    font-size: 15px;
+    font-weight: bolder;
+}
+
+.com #text2{
+    font-size: 10px;
+    font-weight: bolder;
+}
+
+.com p{
+    font-size: smaller;
+    margin-left: 10px;
+}
+
+.com{
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    margin-top: 10px;
+}
+
+.com #user{
+    font-size: 30px;
+    background-color: tomato;
+    border-radius: 80px;
+    padding: 10px;
+    color: #f1eeee;
+}
+
+.comment-replys{
+    display: flex;
+    gap: 20px;
+    margin-left: 78px;
+}
+
+.reply{
+    border-style: none;
+    padding: 10px;
+    border-radius: 50px;
+}
+
